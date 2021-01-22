@@ -546,7 +546,7 @@ The automatic detection of cgroup driver for other container runtimes
 like CRI-O and containerd is work in progress.
 -->
 自动检测其他容器运行时（例如 CRI-O 和 containerd）的 cgroup 驱动的相关
-工作扔在进行中。
+工作仍在进行中。
 
 <!--
 ## Troubleshooting
